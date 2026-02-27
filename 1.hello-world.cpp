@@ -1,7 +1,7 @@
-// copyright
-// Source:
-// https://vjudge.net/problem/Aizu-ITP1_1_A
-
+/* copyright
+   Source:
+   https://vjudge.net/problem/Aizu-ITP1_1_A
+*/
 #include <iostream>
 
 int main() {

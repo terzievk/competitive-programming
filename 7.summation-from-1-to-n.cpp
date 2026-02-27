@@ -1,7 +1,7 @@
-// copyright
-// Source:
-// https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
-
+/* copyright
+   Source:
+   https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+*/
 #include <iostream>
 
 int main() {

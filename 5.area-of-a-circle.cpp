@@ -1,7 +1,7 @@
-// copyright
-// Source:
-// https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
-
+/* copyright
+   Source:
+   https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E
+*/
 #include<iostream>
 #include<iomanip>
 

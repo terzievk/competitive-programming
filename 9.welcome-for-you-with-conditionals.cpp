@@ -1,6 +1,7 @@
-// copyright
-// Source:
-// https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
+/* copyright
+   Source:
+   https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
+*/
 
 #include <iostream>
 

@@ -10,4 +10,8 @@ https://youkn0wwho.academy/topic-list
 Cool link maybe:
 https://usaco.guide/
 
+Unless in the pending list, all problems pass in full.
+
+Pending:
+
 Still in queue: 

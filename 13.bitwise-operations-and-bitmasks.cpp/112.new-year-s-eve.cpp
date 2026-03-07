@@ -23,12 +23,6 @@ int main() {
     return 0;
   }
 
-  // uint64_t count{};
-  // while (n) {
-  //   count += n & 1;
-  //   n >>= 1;
-  // }
-
   std::cout << n << '\n';
   return 0;
 }

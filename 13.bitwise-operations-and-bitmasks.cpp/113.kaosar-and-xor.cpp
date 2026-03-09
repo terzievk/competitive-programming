@@ -1,7 +1,7 @@
 /* copyright
    Source:
    https://eolymp.com/en/problems/12228
-*/
+ */
 #include <bits/stdc++.h>
 
 void findPattern();
@@ -62,9 +62,9 @@ void findPattern() {
   uint64_t n{};
   while (std::cin >> n) {
     std::cout
-        << "n: " << n << '\n'
-        << std::bitset<8>(n) << '\n'
-        << "n: " << n << '\n';
+    << "n: " << n << '\n'
+    << std::bitset<8>(n) << '\n'
+    << "n: " << n << '\n';
 
     std::vector<uint64_t> v;
     for (uint64_t i{1}; i <= n; ++i) {

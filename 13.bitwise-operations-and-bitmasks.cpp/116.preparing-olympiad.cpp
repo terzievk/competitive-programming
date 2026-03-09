@@ -19,7 +19,7 @@ int main() {
   }
 
   int count{};
-  for (uint64_t i{}; i < (1ull << (n + 1)); ++i) {
+  for (uint64_t i{}; i < (1ull << n); ++i) {
     uint64_t sum{};
     uint64_t min{1000*1000*1000};
     uint64_t max{0};
@@ -42,7 +42,7 @@ int main() {
     }
   }
 
-  std::cout << count/2 << '\n';
+  std::cout << count << '\n';
 
   return 0;
 }

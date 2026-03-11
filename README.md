@@ -7,7 +7,7 @@ https://codeforces.com/blog/entry/95106
 Direct link:
 https://youkn0wwho.academy/topic-list
 
-Cool link maybe:
+Cool link:
 https://usaco.guide/
 
 

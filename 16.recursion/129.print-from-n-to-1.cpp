@@ -9,8 +9,10 @@ void print(int n) {
     return;
   }
 
-  std::cout << n << '\n';
-
+  std::cout << n;
+  if (n > 1) {
+    std::cout << ' ';
+  }
   print(n - 1);
 
   return;
